@@ -1,0 +1,14 @@
+body {
+  font-size: 1.25rem;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+  font-variant-caps: small-caps;
+}
+p span:first-child {
+  font-weight: bold;
+  color: red;
+}
+p span:nth-child(2) {
+  font-style: italic;
+}
